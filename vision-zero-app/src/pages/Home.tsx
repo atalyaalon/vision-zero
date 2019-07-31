@@ -1,11 +1,11 @@
 import React from 'react';
+import HomeMain from "../components/HomeMain";
 
 
 const Home : React.FC = ()=> {
     return(
         <div>
-            check12
-            {/*<HomeMain/>*/}
+            <HomeMain/>
             {/*<HomeInteractivePic/>*/}
             {/*<HomeInfo/>*/}
         </div>
