@@ -1,4 +1,5 @@
 import React from 'react';
+import HomeInteractivePic from '../components/HomeInteractivePic';
 
 
 const Home : React.FC = ()=> {
@@ -6,10 +7,10 @@ const Home : React.FC = ()=> {
         <div>
             check12
             {/*<HomeMain/>*/}
-            {/*<HomeInteractivePic/>*/}
+            <HomeInteractivePic/>
             {/*<HomeInfo/>*/}
         </div>
     )
 };
 
-export default Home
+export default Home;
