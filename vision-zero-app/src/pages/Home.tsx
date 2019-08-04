@@ -1,17 +1,16 @@
 import React from 'react';
+import HomeInteractivePic from '../components/HomeInteractivePic';
 import HomeInfo from "../components/HomeInfo";
 import HomeMain from "../components/HomeMain";
-
 
 const Home : React.FC = ()=> {
     return(
         <div>
-            {/*<HomeMain/>*/}
             <HomeMain/>
-            {/*<HomeInteractivePic/>*/}
+            <HomeInteractivePic/>
             <HomeInfo/>
         </div>
     )
 };
 
-export default Home
+export default Home;
