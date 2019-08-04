@@ -1,13 +1,12 @@
 import React from 'react';
-
+import HomeInfo from "../components/HomeInfo";
 
 const Home : React.FC = ()=> {
     return(
         <div>
-            check12
             {/*<HomeMain/>*/}
             {/*<HomeInteractivePic/>*/}
-            {/*<HomeInfo/>*/}
+            <HomeInfo/>
         </div>
     )
 };
