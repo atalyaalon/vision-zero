@@ -10,6 +10,7 @@ export const Routes = () => {
       <div>
         <Switch>
           <Route path="/" component={Home} exact/>
+          <Route path="/home" component={Home} exact/>
           <Route path="/concepts" component={Concepts} exact/>
         </Switch>
       </div>
@@ -24,6 +25,6 @@ const App: React.FC = () => {
 
     </div>
   );
-}
+};
 
 export default App;
