@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/vision-zero/static/css/main.875b0217.chunk.css",
+    "main.js": "/vision-zero/static/js/main.fa9cee7f.chunk.js",
+    "main.js.map": "/vision-zero/static/js/main.fa9cee7f.chunk.js.map",
+    "runtime-main.js": "/vision-zero/static/js/runtime-main.f1a350c9.js",
+    "runtime-main.js.map": "/vision-zero/static/js/runtime-main.f1a350c9.js.map",
+    "static/js/2.231f6aae.chunk.js": "/vision-zero/static/js/2.231f6aae.chunk.js",
+    "static/js/2.231f6aae.chunk.js.map": "/vision-zero/static/js/2.231f6aae.chunk.js.map",
+    "index.html": "/vision-zero/index.html",
+    "precache-manifest.d345249a4ae13819b5c8db308939f4a8.js": "/vision-zero/precache-manifest.d345249a4ae13819b5c8db308939f4a8.js",
+    "service-worker.js": "/vision-zero/service-worker.js",
+    "static/css/main.875b0217.chunk.css.map": "/vision-zero/static/css/main.875b0217.chunk.css.map",
+    "static/media/exemple1.png": "/vision-zero/static/media/exemple1.5faec2da.png"
+  }
+}
