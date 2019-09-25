@@ -11,8 +11,8 @@ export const Routes = () => {
   return (
     <div>
       <Switch>
-        <Route path="/" component={Home} exact/>
         <Route path="/concepts" component={Concepts} exact/>
+        <Route path="*" component={Home} exact/>
       </Switch>
     </div>
   )
