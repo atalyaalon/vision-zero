@@ -1,10 +1,6 @@
 import React from 'react';
 import {makeStyles} from '@material-ui/core/styles';
-import Typography from '@material-ui/core/Typography';
 import Card from '@material-ui/core/Card';
-import CardActions from '@material-ui/core/CardActions';
-import CardContent from '@material-ui/core/CardContent';
-import Button from '@material-ui/core/Button';
 import img from '../assets/exemple1.png';
 
 import CardMedia from '@material-ui/core/CardMedia';
@@ -12,8 +8,7 @@ import CardMedia from '@material-ui/core/CardMedia';
 
 const useStyles = makeStyles(theme => ({
     main: {
-        padding: theme.spacing(3, 2),
-        backgroundColor: '#f5f5f5',
+        padding: theme.spacing(3, 12),
     },
     card: {
         minWidth: 275,
