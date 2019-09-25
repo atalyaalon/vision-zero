@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "da1a324927b2ad845bef781ede4a9849",
+    "revision": "7e49e2136fe3227324f0cac204d630b7",
     "url": "/vision-zero/index.html"
   },
   {
-    "revision": "0a59032afb24c3e90edd",
+    "revision": "1ae9f6d1ecdc85689b8d",
     "url": "/vision-zero/static/css/main.875b0217.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vision-zero/static/js/2.231f6aae.chunk.js"
   },
   {
-    "revision": "0a59032afb24c3e90edd",
-    "url": "/vision-zero/static/js/main.fa9cee7f.chunk.js"
+    "revision": "1ae9f6d1ecdc85689b8d",
+    "url": "/vision-zero/static/js/main.b4709ea7.chunk.js"
   },
   {
     "revision": "e6f33fe05347611c35c6",
